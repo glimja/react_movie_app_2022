@@ -20,3 +20,16 @@
 }
 
 .detail_desc {padding:50px 50px 150px}
+
+.momentwrap {padding:20px; text-align: center}
+.momentwrap .control {padding:10px}
+.momentwrap .control .dayinfo {padding:0 15px; font-size: 16px}
+.moment_datepicker {}
+.moment_datepicker {display:flex; justify-content:center; font-size: 16px;}
+.moment_datepicker tbody {padding:10px;background-color: lightgray;}
+.moment_datepicker td {border: 0; padding: 5px; color: #555; background-color: white; text-align: center;}
+.moment_datepicker .ui-datepicker-today {color: #fff; background-color: #222}
+.moment_datepicker .ui-datepicker-today .ui-state-default {}
+.moment_datepicker .ui-datepicker-today .ui-state-default.ui-state-active {}
+.moment_datepicker .ui-state-disabled {}
+.moment_datepicker .ui-state-disabled .ui-state-default {background-color:white; color:#eee}
